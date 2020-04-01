@@ -6,6 +6,7 @@
 **/*.log
 **/*.cpuprofile
 **/*.heapsnapshot
+**/*.threads*
 
 # Editor Files
 .c9/
@@ -40,6 +41,7 @@ es5/
 es2015/
 esnext/
 docs/
+tsconfig.tsbuildinfo
 
 # Caches
 .glide/
@@ -81,6 +83,7 @@ __pycache__
 docker-compose.swarm.yml
 
 # Other
+**/tmp.db
 _obj
 _test
 *.cgo1.go
@@ -92,6 +95,7 @@ _testmain.go
 local.properties
 *.keystore
 *.iml
+.nyc_output
 
 # Buck
 buck-out/
@@ -142,6 +146,7 @@ sourcemap.js
 # Jest
 .jest/
 coverage/
+junit/
 
 # Dependency directories (remove the comment below to include it)
 # vendor/

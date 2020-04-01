@@ -5,9 +5,9 @@
     "lib": [
       "es6",
       "dom",
-      "esnext",
-      "esnext.asynciterable"
+      "esnext"
     ],
+    "composite": true,
     "moduleResolution": "node",
     "allowJs": false,
     "declaration": true,
@@ -19,15 +19,19 @@
     "noImplicitAny": true,
     "noUnusedLocals": false,
     "noUnusedParameters": false,
-    "baseUrl": "./",
+    "rootDir": ".",
     "esModuleInterop": true,
     "inlineSourceMap": false,
     "inlineSources": false,
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "types": [
+      "node",
+      "mocha"
+    ]
   },
   "exclude": [
     "node_modules",
-    "dist",
+    "dist"
   ]
 }
