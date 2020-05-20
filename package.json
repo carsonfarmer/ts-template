@@ -6,7 +6,7 @@
   "types": "dist/index",
   "scripts": {
     "prepublishOnly": "npm run build",
-    "prepare": "npm run build:node",
+    "prepare": "npm run compile",
     "prebuild": "npm run clean",
     "build": "npm run compile",
     "compile": "tsc -b tsconfig.json",
