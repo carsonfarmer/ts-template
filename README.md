@@ -1,11 +1,13 @@
-# Package name _(package-name)_
+# TS Template _(ts-template)_
 
-[![GitHub license](https://img.shields.io/github/license/carsonfarmer/package-name.svg?style=flat-square)](./LICENSE)
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/carsonfarmer/package-name.svg?style=popout-square)](./package.json)
-[![npm (scoped)](https://img.shields.io/npm/v/@carsonfarmer/package-name.svg?style=popout-square)](https://www.npmjs.com/package/@carsonfarmer/package-name)
-[![Release](https://img.shields.io/github/release/carsonfarmer/package-name.svg?style=flat-square)](https://github.com/carsonfarmer/package-name/releases/latest)
-[![docs](https://img.shields.io/badge/docs-master-success.svg?style=popout-square)](https://carsonfarmer.github.io/package-name)
-[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![GitHub license](https://img.shields.io/github/license/carsonfarmer/ts-template.svg)](./LICENSE)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/carsonfarmer/ts-template.svg?style=popout-square)](./package.json)
+[![npm (scoped)](https://img.shields.io/npm/v/@carsonfarmer/ts-template.svg?style=popout-square)](https://www.npmjs.com/package/@carsonfarmer/ts-template)
+[![Release](https://img.shields.io/github/release/carsonfarmer/ts-template.svg)](https://github.com/carsonfarmer/ts-template/releases/latest)
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg)](https://github.com/RichardLitt/standard-readme)
+
+![Tests](https://github.com/carsonfarmer/ts-template/workflows/Test/badge.svg)
+[![Docs](https://github.com/carsonfarmer/ts-template/workflows/Docs/badge.svg)](https://carsonfarmer.github.io/ts-template)
 
 > Package description.
 
@@ -28,7 +30,7 @@ TODO
 ## Install
 
 ```
-npm i @carsonfarmer/package-name
+npm i @carsonfarmer/ts-template
 ```
 
 ## Usage
@@ -41,7 +43,7 @@ There are also several useful examples included in the `*.spec.ts` files of this
 
 ## API
 
-See [https://carsonfarmer.github.io/package-name](https://carsonfarmer.github.io/package-name)
+See [https://carsonfarmer.github.io/ts-template](https://carsonfarmer.github.io/ts-template)
 
 ## Maintainers
 
