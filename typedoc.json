@@ -3,7 +3,6 @@
   "name": "Threads",
   "mode": "modules",
   "out": "docs",
-  "include": "src/",
   "exclude": [
     "**/*.spec.ts",
     "**/node_modules/**"
@@ -17,6 +16,5 @@
   "moduleResolution": "node",
   "preserveConstEnums": true,
   "stripInternal": true,
-  "module": "commonjs",
-  "mdHideSources": true
+  "module": "commonjs"
 }

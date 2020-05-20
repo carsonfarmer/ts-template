@@ -37,7 +37,7 @@ npm i @carsonfarmer/package-name
 // TODO
 ```
 
-There are also several useful examples included in the [`tests` folder](https://github.com/carsonfarmer/package-name/tree/master/tests) of this repo.
+There are also several useful examples included in the `*.spec.ts` files of this repo.
 
 ## API
 
@@ -57,4 +57,4 @@ Small note: If editing the README, please conform to the [standard-readme](https
 
 ## License
 
-[MIT](LICENSE) (c) 2019 Carson Farmer
+[MIT](LICENSE) (c) 2020 Carson Farmer
