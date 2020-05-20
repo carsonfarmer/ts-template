@@ -37,9 +37,6 @@ jobs:
     - name: Install
       run: npm install
 
-    - name: Lint
-      run: npm run lint
-
     - name: Test Node
       run: npm run test:node
 
