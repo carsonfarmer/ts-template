@@ -16,7 +16,7 @@
     "test:node": "TS_NODE_FILES=true mocha --exit",
     "test:browser": "polendina --cleanup src/**/*.spec.ts --webpack-config ./webpack.test.js",
     "lint": "eslint --fix --ext .js,.ts src/**/*",
-    "docs": "typedoc"
+    "docs": "typedoc && touch ./docs/.nojekyll"
   },
   "keywords": [
     "typescript",
