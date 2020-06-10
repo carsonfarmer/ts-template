@@ -10,9 +10,17 @@
 
 # Editor Files
 .c9/
-.vscode/
 .idea/
 launch.json
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
 
 # Private Files
 .env
