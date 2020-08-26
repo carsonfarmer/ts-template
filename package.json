@@ -40,7 +40,7 @@
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
     "husky": "^4.2.5",
-    "mocha": "^8.0.1",
+    "mocha": "^8.1.2",
     "polendina": "^1.0.0",
     "prettier": "^2.0.5",
     "prettier-plugin-organize-imports": "^1.0.4",
