@@ -26,7 +26,7 @@
   "author": "Carson Farmer <carson.farmer@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
+    "@commitlint/cli": "^12.0.0",
     "@commitlint/config-conventional": "^8.3.4",
     "@types/chai": "^4.2.11",
     "@types/dirty-chai": "^2.0.2",
